@@ -1,4 +1,4 @@
-# Rag-demo — MCP Client with LangGraph + Groq
+# MCP-demo — MCP Client with LangGraph + Groq
 
 A demo project showing how to connect a LangGraph agent to multiple MCP (Model Context Protocol) servers — a local math server (stdio) and a weather server (streamable HTTP) — using [`langchain-mcp-adapters`](https://github.com/langchain-ai/langchain-mcp-adapters) and Groq as the LLM backend.
 
